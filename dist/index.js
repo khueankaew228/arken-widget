@@ -149,7 +149,7 @@ var ArkenWidget = function ArkenWidget(_ref) {
     ref: ref,
     id: 'arken-root',
     style: _extends({
-      minHeight: 700,
+      // minHeight: 700,
       position: 'relative'
     }, containerStyle)
   });
